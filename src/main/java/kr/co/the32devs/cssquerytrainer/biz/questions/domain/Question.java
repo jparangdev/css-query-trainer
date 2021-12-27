@@ -21,6 +21,8 @@ public class Question {
 
 	private int level;
 
+	private String title;
+
 	@Lob
 	private String text;
 
